@@ -57,6 +57,8 @@ You can install packages here, such as [Splink](https://moj-analytical-services.
 conda install -c conda-forge splink
 ```
 
+Packages can also be installed using `pip` in the same environment. 
+
 You should then be able to import this package directly in your Python file. 
 
 **NB**: If you selected a **Jupyter Notebook** file, you will need to install [_ipykernel_](https://pypi.org/project/ipykernel/). You can do this in the VS Code terminal using the command `conda install ipykernel`. Alternatively, when you try and run your first code block you will be automatically prompted to complete this install. 
