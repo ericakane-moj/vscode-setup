@@ -25,7 +25,7 @@ Alternatively, you can do this on the same terminal using Homebrew:
 ```
 brew install --cask visual-studio-code
 ```
-### Step 4: Install Python extension for VS Code
+### Step 4: Install a Python extension
 
 Open the VS Code app and navigate to the **Extensions** tab on the left hand panel. Install the extension named _'Python'_ by Microsoft (usually the first in the list). 
 
